@@ -1,0 +1,28 @@
+adauga_student - licenta - Aiden
+adauga_student - licenta - Bella
+adauga_student - licenta - Gavin
+adauga_student - licenta - Harper
+adauga_student - licenta - Isla
+adauga_student - master - Henry
+adauga_student - master - Noah
+adauga_student - master - Isabel
+adauga_curs - licenta - Fizica - 3
+adauga_curs - licenta - Mate - 10
+adauga_curs - master - ALGAED - 2
+adauga_curs - master - AMat - 15
+adauga_preferinte - Aiden - Fizica
+adauga_preferinte - Bella - Fizica - Mate
+adauga_preferinte - Gavin - Mate - Fizica
+adauga_preferinte - Noah - AMat
+citeste_mediile
+posteaza_mediile
+repartizeaza
+posteaza_curs - Fizica
+posteaza_curs - Mate
+posteaza_curs - ALGAED
+posteaza_curs - AMat
+repartizeaza_automat
+posteaza_curs - Fizica
+posteaza_curs - Mate
+posteaza_curs - ALGAED
+posteaza_curs - AMat
